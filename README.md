@@ -1,2 +1,2 @@
-# slide_padra_astroesul
-No presente repositório esta o slide padrão do programa AstroESul!
+# Slide Padrão programa AstroESul
+No presente repositório está o slide padrão do programa AstroESul!
